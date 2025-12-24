@@ -12,3 +12,5 @@ Acesta este un bot de automatizare creat pentru a monitoriza și achiziționa pr
 * **Selenium** (pentru controlul browserului)
 * **BeautifulSoup4** (pentru parsarea datelor HTML)
 * **Requests** (pentru interacțiuni rapide cu API-uri)
+
+### Este doar in faza de testare si nu este terminat!
