@@ -1,6 +1,6 @@
 # Supreme Automated Buyer
 
-Acesta este un bot de automatizare creat pentru a monitoriza și achiziționa produse de pe supreme.com. Proiectul a fost dezvoltat pentru a rezolva problema stocurilor care se epuizează rapid (drop-uri).
+Acesta este un bot de automatizare creat acum 2 ani pentru a monitoriza și achiziționa produse de pe supreme.com. Proiectul a fost dezvoltat pentru a rezolva problema stocurilor care se epuizează rapid (drop-uri), chiar o problema personala cu care ma confruntam.
 
 ### Ce face mai exact:
 * **Monitorizare în timp real:** Verifică disponibilitatea produselor folosind BeautifulSoup.
